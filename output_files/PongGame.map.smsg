@@ -1,0 +1,2 @@
+Info (10281): Verilog HDL Declaration information at PongGame.sv(40): object "leftScore" differs only in case from object "LeftScore" in the same scope File: H:/Y2S1/EE20021 Digital Systems Design/Pong/PongGame.sv Line: 40
+Info (10281): Verilog HDL Declaration information at PongGame.sv(41): object "rightScore" differs only in case from object "RightScore" in the same scope File: H:/Y2S1/EE20021 Digital Systems Design/Pong/PongGame.sv Line: 41
